@@ -1,2 +1,2 @@
 # Azure-Example
-test Codes while prep for Azure AI-102 Certification
+A codebase of all the AWS examples used through Azure Certification Study Courses.
